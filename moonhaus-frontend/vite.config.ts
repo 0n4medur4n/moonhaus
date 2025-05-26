@@ -5,7 +5,7 @@ import { resolve } from "path";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: process.env.NODE_ENV === "development" ? "/" : "./",
+  base: "/",
   resolve: {
     alias: {
       "@": resolve(__dirname, "src"),
@@ -24,5 +24,10 @@ export default defineConfig({
         },
       },
     },
+  },
+  server: {
+    port: 5173,
+    strictPort: true,
+    host: true,
   },
 });
