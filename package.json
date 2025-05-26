@@ -1,0 +1,32 @@
+{
+  "name": "moonhaus",
+  "version": "1.0.0",
+  "description": "MoonHaus Valencia - Proyecto completo (Frontend + Backend)",
+  "scripts": {
+    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\"",
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd moonhaus-frontend && npm run dev",
+    "dev:backend": "cd moonhaus-backend && npm run dev",
+    "start:frontend": "cd moonhaus-frontend && npm run preview",
+    "start:backend": "cd moonhaus-backend && npm run start",
+    "build": "npm run build:frontend",
+    "build:frontend": "cd moonhaus-frontend && npm run build"
+  },
+  "keywords": [
+    "moonhaus",
+    "coworking",
+    "valencia"
+  ],
+  "author": "Moonhaus Valencia",
+  "license": "MIT",
+  "dependencies": {
+    "@react-three/drei": "^10.0.8",
+    "@react-three/fiber": "^9.1.2",
+    "concurrently": "^8.2.2",
+    "framer-motion": "^12.12.1",
+    "i18next": "^25.2.0",
+    "react-i18next": "^15.5.2",
+    "styled-components": "^6.1.18",
+    "three": "^0.176.0"
+  }
+}

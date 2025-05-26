@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://moonhaus.es/sitemap.xml
+
+# Crawl-delay para evitar sobrecarga del servidor
+Crawl-delay: 1
+
+# Permitir acceso a recursos importantes
+Allow: /assets/
+Allow: /backgrounds/
+Allow: /locales/
+
+# Bloquear archivos innecesarios
+Disallow: /node_modules/
+Disallow: /*.json$
+Disallow: /src/
+Disallow: /vite.config.ts
+Disallow: /package.json
+Disallow: /tsconfig.json 

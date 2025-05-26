@@ -1,0 +1,28 @@
+{
+  "name": "Moonhaus Valencia - Coworking Inclusivo",
+  "short_name": "Moonhaus",
+  "description": "Coworking inclusivo en Valencia donde creativos, familias y profesionales encuentran un espacio artístico y colaborativo en Ruzafa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a0a2e",
+  "theme_color": "#9e57ff",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "es",
+  "dir": "ltr",
+  "categories": ["business", "productivity", "lifestyle"],
+  "icons": [
+    {
+      "src": "/logo/MoonHaus Logo.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo/MoonHaus Logo1.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}

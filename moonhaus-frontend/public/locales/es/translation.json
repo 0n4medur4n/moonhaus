@@ -1,0 +1,210 @@
+{
+  "hero": {
+    "title": "MOONHAUS",
+    "subtitle": "Donde la creatividad y la diversidad florecen en Valencia",
+    "description": "En Moonhaus, reinventamos el coworking para que madres, padres, creativos y profesionales de todos los perfiles encuentren un espacio inclusivo, artístico y lleno de oportunidades. Próxima apertura. ¡Reserva tu lugar hoy!",
+    "features": {
+      "tier1": {
+        "title": "Coworking"
+      },
+      "stock": {
+        "title": "Arte"
+      },
+      "shipping": {
+        "title": "Inclusión"
+      }
+    },
+    "cta": "Quiero ser de los primeros"
+  },
+  "location": {
+    "title": "Encuentranos en Valencia",
+    "subtitle": "Ubicados en el vibrante barrio de Ruzafa, cerca de todo lo que necesitas",
+    "address": "Calle de Castellón, 15, Ruzafa, 46004 Valencia",
+    "directions": "Cómo llegar",
+    "transport": {
+      "metro": "Metro: Líneas 3, 5, 7 y 9 (Estación Xàtiva, a 10 min. caminando)",
+      "bus": "Bus: Líneas 8, 9, 10 y 79 (Parada Gran Vía)",
+      "bike": "Valenbisi: Estación nº 114 (C/ Ruzafa 28, a 2 min. caminando)",
+      "car": "Parking público: Plaza España y C/ Russafa (a 5 min. caminando)"
+    },
+    "neighborhood": "Ruzafa es conocido por su ambiente artístico, cafés, restaurantes y tiendas de diseño. ¡El lugar perfecto para tu espacio creativo!"
+  },
+  "weather": {
+    "error": "Clima no disponible",
+    "loading": "Cargando clima..."
+  },
+  "why": {
+    "title": "¿Por que Moonhaus?",
+    "description": "¿Buscas algo más que un escritorio? Moonhaus es un cowork disruptivo donde la igualdad, la colaboración y el respeto son el día a día. Aquí, la inclusión es real: hombres, mujeres, personas LGTBI+, familias, artistas y emprendedores comparten un entorno abierto y creativo.",
+    "cta": "Descubre cómo podemos potenciar tu talento"
+  },
+  "spaces": {
+    "title": "Explora Nuestros Espacios",
+    "subtitle": "Cada espacio está diseñado para inspirar, conectar y adaptarse a tus necesidades creativas y profesionales.",
+    "cta": "Solicita información sobre disponibilidad y precios",
+    "venus": {
+      "title": "Sala Venus",
+      "detail1": {
+        "title": "Sala de juntas y taller para artes mixtas",
+        "description": "Capacidad: 8 personas. Mesa moderna, 8 sillas de diferentes alturas, 8 casilleros, almacenamiento, wifi."
+      },
+      "detail2": {
+        "title": "Talleres exclusivos",
+        "description": "Resina epóxica, arquitectura para niños, maquetación, ilustración, talleres de verano y más."
+      }
+    },
+    "orion": {
+      "title": "Orion",
+      "detail1": {
+        "title": "Microoficina privada para 1 persona",
+        "description": "Silla gerencial, escritorio, micronevera, cajonera con seguridad, domicilio fiscal, wifi."
+      },
+      "detail2": {
+        "title": "Ambiente privado y profesional",
+        "description": "Perfecto para profesionales independientes que necesitan concentración y privacidad."
+      }
+    },
+    "antares": {
+      "title": "Antares",
+      "detail1": {
+        "title": "Oficina flexible para 2 personas",
+        "description": "Escritorio amplio, micronevera con bebidas, cajonera con seguridad, domicilio fiscal, wifi."
+      },
+      "detail2": {
+        "title": "Espacio colaborativo",
+        "description": "Ideal para pequeños equipos o para quienes trabajan con un compañero."
+      }
+    },
+    "satelite": {
+      "title": "Salón Satélite",
+      "detail1": {
+        "title": "Salón principal para eventos culturales",
+        "description": "Espacio versátil para exposiciones, talleres grupales y actividades comunitarias."
+      },
+      "detail2": {
+        "title": "Alquiler exclusivo fines de semana",
+        "description": "Perfecto para eventos privados, presentaciones y celebraciones especiales."
+      }
+    }
+  },
+  "team": {
+    "title": "Tres emprendedores, tres historias, una vision",
+    "members": {
+      "natalia": {
+        "name": "Natalia",
+        "description": "Arquitecta colombiana, convencida de que el arte y la igualdad transforman comunidades."
+      },
+      "camilo": {
+        "name": "Camilo",
+        "description": "Canadiense, experto en gestión y apasionado por conectar personas y culturas."
+      },
+      "doriam": {
+        "name": "Doriam",
+        "description": "Diseñadora y creativa, símbolo de quienes rompen barreras en el mundo empresarial."
+      }
+    },
+    "footer": "Juntos han creado Moonhaus: un espacio donde las diferencias suman y las ideas se hacen realidad."
+  },
+  "community": {
+    "title": "Comunidad & Experiencia Moonhaus",
+    "subtitle": "En Moonhaus, la experiencia va más allá del espacio físico.",
+    "features": [
+      "Mentorías y acompañamiento personalizado",
+      "Talleres y actividades para todas las edades",
+      "Networking y eventos exclusivos",
+      "Apoyo para madres, padres, creativos y profesionales de todos los sectores",
+      "Espacios de colaboración y co-creación",
+      "Programas de desarrollo profesional y personal"
+    ],
+    "footer": "Aquí, tu crecimiento es el motor de nuestra comunidad.",
+    "cta": "Quiero ser parte de la comunidad Moonhaus"
+  },
+  "liveMoonhaus": {
+    "title": "Vive Moonhaus: Imagina tu dia aqui",
+    "description": "Imagina llegar a un espacio donde puedes ser tú mismo, desarrollar tu proyecto, compartir ideas y crecer rodeado de personas que te entienden y te apoyan.",
+    "question": "¿Eres freelance, padre, madre, artista, nómada digital o simplemente buscas un entorno respetuoso y vibrante?",
+    "conclusion": "Moonhaus es tu lugar",
+    "cta": "Únete a Moonhaus"
+  },
+  "projectStatus": {
+    "title": "Estado del Proyecto",
+    "copyLine1": "¡Moonhaus está en construcción y abrirá sus puertas muy pronto!",
+    "copyLine2": "Las plazas son limitadas y la demanda es alta. No te quedes fuera de la comunidad creativa más innovadora de Valencia.",
+    "cta": "Apúntate ahora y asegura tu lugar"
+  },
+  "footer": {
+    "title": "¿Listo para comenzar tu historia en Moonhaus?",
+    "subtitle": "Únete a nuestra comunidad creativa en Valencia",
+    "description": "Donde las ideas cobran vida y los sueños se hacen realidad",
+    "contact": {
+      "title": "Contacto",
+      "email": "moonhaus.web@gmail.com",
+      "phone": "+34 643 927 561",
+      "address": "Valencia, España"
+    },
+    "links": {
+      "title": "Enlaces",
+      "home": "Inicio",
+      "contact": "Contacto",
+      "spaces": "Espacios",
+      "community": "Comunidad"
+    },
+    "social": {
+      "title": "Síguenos",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter"
+    },
+    "newsletter": {
+      "title": "Mantente al día",
+      "placeholder": "Tu email",
+      "button": "Suscríbete",
+      "description": "Recibe noticias sobre nuestra apertura y eventos exclusivos"
+    },
+    "cta": "Reserva tu lugar",
+    "copyright": "Todos los derechos reservados. Moonhaus Valencia",
+    "tagline": "Creando el futuro del coworking, un día a la vez."
+  },
+  "navbar": { "home": "Inicio", "contact": "Contacto" },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "intro": "¿Listo para unirte a la comunidad creativa más innovadora de Valencia? Hablemos sobre cómo Moonhaus puede transformar tu experiencia de trabajo.",
+    "seo": {
+      "title": "Contacto - Moonhaus Valencia | Reserva tu Espacio de Coworking en Ruzafa",
+      "description": "Contacta con Moonhaus Valencia para reservar tu espacio de coworking inclusivo en Ruzafa. Espacios creativos para profesionales, familias y artistas. ¡Únete a nuestra comunidad!"
+    },
+    "form": {
+      "nameLabel": "Nombre Completo",
+      "namePlaceholder": "Introduce tu nombre completo",
+      "emailLabel": "Correo Electrónico",
+      "emailPlaceholder": "tu@email.com",
+      "phoneLabel": "Número de Teléfono",
+      "phonePlaceholder": "+34 123 456 789",
+      "messageLabel": "Cuéntanos sobre tu proyecto",
+      "messagePlaceholder": "¿Qué tipo de espacio buscas? ¿De qué trata tu proyecto? ¿Cómo puede Moonhaus ayudarte a crecer?",
+      "submitButton": "Enviar Mensaje",
+      "submittingButton": "Enviando...",
+      "successMessage": "¡Gracias! Te responderemos en menos de 24 horas.",
+      "genericError": "Algo salió mal. Por favor intenta de nuevo o contáctanos directamente."
+    }
+  },
+  "whatsapp": {
+    "online": "En línea",
+    "welcome": "¡Hola! 👋 ¡Bienvenido a Moonhaus! Estoy aquí para ayudarte a encontrar el espacio creativo perfecto en Valencia. ¿Qué te gustaría saber?",
+    "options": {
+      "spaces": "🏢 Espacios disponibles",
+      "pricing": "💰 Precios y planes",
+      "visit": "📅 Agendar una visita",
+      "other": "❓ Otras consultas"
+    },
+    "response": "¡Perfecto! Me encantaría ayudarte con eso. ¿Te gustaría que te conecte directamente con nuestro equipo vía WhatsApp para una atención personalizada?",
+    "final": {
+      "yes": "✅ Sí, conéctame",
+      "info": "📋 Envíame más información"
+    },
+    "redirect": "¡Genial! Te estoy redirigiendo a WhatsApp donde nuestro equipo te atenderá personalmente. ¡Nos vemos pronto! 🚀",
+    "moreInfo": "Te enviaré información detallada sobre nuestros espacios y servicios. ¡Nuestro equipo se pondrá en contacto contigo pronto!",
+    "defaultMessage": "¡Hola! Estoy interesado en conocer más sobre los espacios de coworking de Moonhaus en Valencia.",
+    "placeholder": "Escribe tu mensaje..."
+  }
+}

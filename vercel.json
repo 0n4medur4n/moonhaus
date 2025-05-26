@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd moonhaus-frontend && npm run build",
+  "outputDirectory": "moonhaus-frontend/dist",
+  "installCommand": "cd moonhaus-frontend && npm install",
+  "devCommand": "cd moonhaus-frontend && npm run dev",
+  "framework": "vite"
+}
