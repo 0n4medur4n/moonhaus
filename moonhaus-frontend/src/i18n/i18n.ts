@@ -12,7 +12,7 @@ i18n
     fallbackLng: "es",
 
     backend: {
-      loadPath: "/locales/{{lng}}/{{ns}}.json",
+      loadPath: "./locales/{{lng}}/{{ns}}.json",
     },
 
     interpolation: {
@@ -34,6 +34,13 @@ i18n
     detection: {
       order: ["localStorage", "navigator", "htmlTag"],
       caches: ["localStorage"],
+    },
+
+    // Asegurar que los recursos se carguen correctamente
+    resources: {
+      es: {
+        translation: {},
+      },
     },
   });
 

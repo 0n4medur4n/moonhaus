@@ -5,7 +5,7 @@ import { resolve } from "path";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/",
+  base: "./",
   resolve: {
     alias: {
       "@": resolve(__dirname, "src"),
@@ -16,5 +16,13 @@ export default defineConfig({
     assetsDir: "assets",
     sourcemap: false,
     chunkSizeWarningLimit: 1600,
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          vendor: ["react", "react-dom", "react-router-dom"],
+          i18n: ["i18next", "react-i18next"],
+        },
+      },
+    },
   },
 });
