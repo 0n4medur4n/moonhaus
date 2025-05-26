@@ -14,7 +14,7 @@ Sitio web para MoonHaus, un espacio de coworking exclusivo en Valencia, España.
 
 ## 🚀 Tecnologías
 
-- React 19
+- React 18
 - TypeScript
 - Styled Components
 - Framer Motion
