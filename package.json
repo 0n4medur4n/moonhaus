@@ -3,14 +3,9 @@
   "version": "1.0.0",
   "description": "MoonHaus Valencia - Proyecto completo (Frontend + Backend)",
   "scripts": {
-    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\"",
-    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
-    "dev:frontend": "cd moonhaus-frontend && npm run dev",
-    "dev:backend": "cd moonhaus-backend && npm run dev",
-    "start:frontend": "cd moonhaus-frontend && npm run preview",
-    "start:backend": "cd moonhaus-backend && npm run start",
-    "build": "npm run build:frontend",
-    "build:frontend": "cd moonhaus-frontend && npm run build"
+    "build": "cd moonhaus-frontend && npm install && npm run build",
+    "dev": "cd moonhaus-frontend && npm run dev",
+    "start": "cd moonhaus-frontend && npm run start"
   },
   "keywords": [
     "moonhaus",
