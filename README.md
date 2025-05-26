@@ -33,7 +33,6 @@ Sitio web para MoonHaus, un espacio de coworking exclusivo en Valencia, España.
 
 ## 🌐 Sitio web
 
-Visita el sitio oficial en [moonhaus-valencia.vercel.app](https://moonhaus-valencia.vercel.app)
 
 ---
 
